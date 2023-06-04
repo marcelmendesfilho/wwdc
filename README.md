@@ -94,6 +94,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 ## WWDC23 Deals: Apps
 
 - [Save 50% on all RemafoX subscription plans](https://www.fline.dev/remafox-wwdc-sale/) by [Cihat Gündüz](https://twitter.com/Jeehut)
+- [WWDC week sale: 50% off on Watch Calendar](https://apps.apple.com/us/app/watch-calendar/id1453181433) by [Marcel Mendes](https://twitter.com/ios_watch)
 
 
 ## Summaries
